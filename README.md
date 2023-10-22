@@ -4,7 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-stadler-988619243/)
 [![Git-Hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JG-Stadler)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JG-Stadler&show_icons=true&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Stadler&layout=donut)](https://github.com/JG-Stadler/github-readme-stats)
 
 ### Tecnologias que eu ultilizo
